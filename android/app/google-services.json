@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "675746240391",
+    "project_id": "groupkash-app",
+    "storage_bucket": "groupkash-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675746240391:android:af9935d2f1d105fe58a522",
+        "android_client_info": {
+          "package_name": "com.example.groupkash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675746240391-svf1tersf84qt1p29od2qi7n23786tkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groupkash",
+            "certificate_hash": "588b2072d0774afe7ef0d897d22bb81768bbb1cf"
+          }
+        },
+        {
+          "client_id": "675746240391-5s7er35sbr2jch6jnreuqhi42kdiggd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2PAE2IGrl3kaEQcixSOgnpuYKOlyD90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675746240391-5s7er35sbr2jch6jnreuqhi42kdiggd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
